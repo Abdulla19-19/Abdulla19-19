@@ -1,20 +1,16 @@
 <!-- 🔥 Animated Name Banner -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FACC15&width=435&lines=Hey%2C+I'm+Syed+Abdulla;Data+Analyst+%7C+ML+%7C+SQL+%7C+Power+BI;Turning+Data+into+Insights..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FACC15&width=435&lines=Hey%2C+I'm+Syed+Abdulla;;Turning+Data+into+Insights..." alt="Typing SVG" />
 </h1>
 
-<!-- 🔍 AI Scanner Style -->
-<p align="center">
-  <img src="C:\Users\iamab\OneDrive\Pictures\data-analysis-img.jpeg" />
-</p>
+![data-analysis-img](https://github.com/user-attachments/assets/0274822a-ecfe-48ff-b141-924f57c172e2)
+
 
 ---
 
 # 👋 Hello from **Syed Abdulla**
 
-🎯 **Data Analyst** | 📈 Python • SQL • Power BI • Machine Learning  
-📊 I turn raw data into smart dashboards, ML models & business stories.  
-🌍 Based in India | 📬 Freelance Ready
+
 
 ---
 
@@ -29,7 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
 </p>
 
@@ -71,7 +66,7 @@
 
 ## 📜 Certifications
 
-- 🧠 **GenAI Powered Data Analytics** – _TATA, 2025_  
+- 🧠 **GenAI Powered Data Analytics** – _TATA,  
 - 🎓 Add More Here...
 
 ---
@@ -81,7 +76,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](your-linkedin)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Abdulla19-19)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=firefox&logoColor=white)](your-portfolio)  
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](your-kaggle)
 
 ---
 
