@@ -5,7 +5,7 @@
 
 <!-- 🔍 AI Scanner Style -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" alt="AI Code Scanner Animation" />
+  <img src="C:\Users\iamab\OneDrive\Pictures\data-analysis-img.jpeg" />
 </p>
 
 ---
